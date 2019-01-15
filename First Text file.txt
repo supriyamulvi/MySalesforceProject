@@ -3,7 +3,7 @@ This is my first file
 <HTML>
 	<H1> Welcome to Home HTML </H1>
 	<BODY>
-		<FORM>
+		<FORM action="home.java">
 			Username: <INPUT type="text" name="name"></INPUT>
 	
 			Password: <INPUT type="password" name="password"></INPUT>
