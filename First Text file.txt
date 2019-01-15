@@ -1,7 +1,7 @@
 This is my first file
 
 <HTML>
-	<H1> This is a Home Page </H1>
+	<H1> Welcome to Home HTML </H1>
 	<BODY>
 		<FORM>
 			Username: <INPUT type="text" name="name"></INPUT>
