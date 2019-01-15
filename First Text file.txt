@@ -4,9 +4,10 @@ This is my first file
 	<H1> This is a Home Page </H1>
 	<BODY>
 		<FORM>
-			Username: <INPUT type="text"></INPUT>
+			Username: <INPUT type="text" name="name"></INPUT>
 	
-			Password: <INPUT type="password"></INPUT>
-		</FORM>
+			Password: <INPUT type="password" name="password"></INPUT>
+		<INPUT type="submit" value="Login"/>
+		FORM>
 	</BODY>
 </HTML>
