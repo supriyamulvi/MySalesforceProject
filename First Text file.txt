@@ -8,6 +8,6 @@ This is my first file
 	
 			Password: <INPUT type="password" name="password"></INPUT>
 		<INPUT type="submit" value="Login"/>
-		FORM>
+		</FORM>
 	</BODY>
 </HTML>
